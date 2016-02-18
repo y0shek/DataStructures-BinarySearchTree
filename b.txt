@@ -1,0 +1,49 @@
+enter choice (a, d, f, p, q): a LOL:Laughing out loud
+enter choice (a, d, f, p, q): a BRB:Be right back
+enter choice (a, d, f, p, q): a AFK:Away from keyboard
+enter choice (a, d, f, p, q): a ROTFL:Rolling on the floor laughing
+enter choice (a, d, f, p, q): a TTYL:Talk to you later
+enter choice (a, d, f, p, q): a IMHO:In my humble opinion
+enter choice (a, d, f, p, q): a BTW:By the way
+enter choice (a, d, f, p, q): p
+AFK(Away from keyboard)
+BRB(Be right back)
+BTW(By the way)
+IMHO(In my humble opinion)
+LOL(Laughing out loud)
+ROTFL(Rolling on the floor laughing)
+TTYL(Talk to you later)
+enter choice (a, d, f, p, q): f BRB
+BRB(Be right back)
+enter choice (a, d, f, p, q): f TTYL
+TTYL(Talk to you later)
+enter choice (a, d, f, p, q): a TL;DR:Too long; didn't read
+enter choice (a, d, f, p, q): p
+AFK(Away from keyboard)
+BRB(Be right back)
+BTW(By the way)
+IMHO(In my humble opinion)
+LOL(Laughing out loud)
+ROTFL(Rolling on the floor laughing)
+TL;DR(Too long; didn't read)
+TTYL(Talk to you later)
+enter choice (a, d, f, p, q): d ROTFL
+ROTFL deleted.
+enter choice (a, d, f, p, q): f LOL
+LOL(Laughing out loud)
+enter choice (a, d, f, p, q): f BTW
+BTW(By the way)
+enter choice (a, d, f, p, q): d ASAP
+Not Present
+enter choice (a, d, f, p, q): f LMAO
+Not Present
+enter choice (a, d, f, p, q): p
+AFK(Away from keyboard)
+BRB(Be right back)
+BTW(By the way)
+IMHO(In my humble opinion)
+LOL(Laughing out loud)
+TL;DR(Too long; didn't read)
+TTYL(Talk to you later)
+enter choice (a, d, f, p, q): q
+done

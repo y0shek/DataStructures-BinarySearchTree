@@ -1,0 +1,19 @@
+a LOL:Laughing out loud
+a BRB:Be right back
+a AFK:Away from keyboard
+a ROTFL:Rolling on the floor laughing
+a TTYL:Talk to you later
+a IMHO:In my humble opinion
+a BTW:By the way
+p
+f BRB
+f TTYL
+a TL;DR:Too long; didn't read
+p
+d ROTFL
+f LOL
+f BTW
+d ASAP
+f LMAO
+p
+q
